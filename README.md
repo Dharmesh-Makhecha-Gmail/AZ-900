@@ -17,5 +17,3 @@ Title and intro	“424 explained practice questions + a 1-to-2-hour exam-day sum
 
 
 LinkedIn: linkedin.com/in/dharmesh-makhecha-07april1972
-
-Exam weights: the domain weights are from my knowledge of the current outline. Check them against the official study guide before publishing.
